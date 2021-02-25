@@ -1,0 +1,10 @@
+C:\Users\Valentin\source\repos\rotate1\rotate1\bin\Debug\rotate1.exe.config
+C:\Users\Valentin\source\repos\rotate1\rotate1\bin\Debug\rotate1.exe
+C:\Users\Valentin\source\repos\rotate1\rotate1\bin\Debug\rotate1.pdb
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.csprojAssemblyReference.cache
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.Form1.resources
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.Properties.Resources.resources
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.exe
+C:\Users\Valentin\source\repos\rotate1\rotate1\obj\Debug\rotate1.pdb
