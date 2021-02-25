@@ -1,0 +1,10 @@
+C:\Users\Valentin\source\repos\Benzo\Benzo\bin\Debug\Benzo.exe.config
+C:\Users\Valentin\source\repos\Benzo\Benzo\bin\Debug\Benzo.exe
+C:\Users\Valentin\source\repos\Benzo\Benzo\bin\Debug\Benzo.pdb
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.csprojAssemblyReference.cache
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.Form1.resources
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.Properties.Resources.resources
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.exe
+C:\Users\Valentin\source\repos\Benzo\Benzo\obj\Debug\Benzo.pdb
